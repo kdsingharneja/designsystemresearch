@@ -65,6 +65,7 @@
 | [Pivotal](http://styleguide.pivotal.io/) | 👍 |  |  |  |
 | [Pluralsight Design System](http://design-system.pluralsight.com/) | 👍 |  |  | 👍 |
 | [Predix Design System](https://www.predix-ui.com/) | 👍 |  |👍 |  |
+| [PrimeNG](https://www.primefaces.org/primeng/#/) | 👍 |  |👍 |  |
 | [Pusher Chameleon](http://pusher.github.io/chameleon/) | 👍 |  |  |  |
 | [Rambler](https://rambler-digital-solutions.github.io/rambler-ui/) | 👍 |  |  | 👍 |
 | [Salesforce Lightning Design System](https://www.lightningdesignsystem.com) | 👍 | 👍 | 👍 |  |
