@@ -12,10 +12,10 @@
 - Storybook: Provides components with relevant stories for React Storybook.
 - - -
 
-|    | Components | Voice & Tone | Designers Kit | Storybook |
-| ----- | ---------- | ------------ | ------ | --------- |
+|    | Components | Voice & Tone | Designers Kit | Storybook | Notes
+| ----- | ---------- | ------------ | ------ | --------- | ---------
 | [Alibaba Ant Design](https://ant.design) | 👍 | 👍 | 👍 | 👍 |
-| [Appear Here Styleguide](http://bloom.appearhere.co.uk/) | 👍 |  |  | 👍 |
+| [Appear Here Styleguide](http://bloom.appearhere.co.uk/) | 👍 |  |  | 👍 | Rejected-For ECom Sites
 | [Apple Developer Design Guidelines](https://developer.apple.com/design/) |  |  | 👍 |  |
 | [Atlassian Design Language](https://atlassian.design) | 👍 | 👍 | 👍 | 👍 |
 | [Audi UI Kit](http://www.audi.com/ci/en/guides/user-interface/introduction.html) | 👍 |  | 👍 |  |
