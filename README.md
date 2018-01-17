@@ -19,18 +19,19 @@
 | [Apple Developer Design Guidelines](https://developer.apple.com/design/) |  |  | 👍 |  | Only for mobile or Mac apps
 | [Atlassian Design Language](https://atlassian.design) | 👍 | 👍 | 👍 | 👍 | Per license should only be used for creating Atlassian Add-Ons
 | [Audi UI Kit](http://www.audi.com/ci/en/guides/user-interface/introduction.html) | 👍 |  | 👍 |  | For Audi Website
-| [BBC GEL (Global Experience Language)](http://www.bbc.co.uk/gel) | 👍 | 👍 | 👍 |  |
-| [Blueprint](http://blueprintjs.com/) | 👍 |  | 👍 |  |
-| [Enigma Boundless](https://boundless.js.org/) | 👍 |  |  |  |
-| [BuzzFeed Solid](http://solid.buzzfeed.com/) | 👍 |  | 👍 |  |
+| [BBC GEL (Global Experience Language)](http://www.bbc.co.uk/gel) | 👍 | 👍 | 👍 |  | For BBC's Sites
+| [Blueprint](http://blueprintjs.com/) | 👍 |  | 👍 |  | Reviewed
+| [Enigma Boundless](https://boundless.js.org/) | 👍 |  |  |  | Review
+| [BuzzFeed Solid](http://solid.buzzfeed.com/) | 👍 |  | 👍 |  | BuzzFeed's CSS style guide
 | [CA Technologies Mineral UI](http://mineral-ui.com/) | 👍 |  |  |  |
 | [Cards Binary Design](https://github.com/opensource-cards/binary-ui) | 👍 | 👍 | 👍 | 👍 |
 | [Cloudflare](https://cloudflare.github.io/cf-ui/) | 👍 |  |  |  |
 | [City of Boston Fleet](https://cob-patterns-staging.herokuapp.com) | 👍 |  |  |  |
 | [Co-op Design Manual](https://coop-design-manual.herokuapp.com/) | 👍 | 👍 | 👍 |  |
-| [Dropbox Scooter](http://dropbox.github.io/scooter/) | 👍 |  |  |  |
+| [Dropbox Scooter](http://dropbox.github.io/scooter/) | 👍 |  |  |  | 
 | [Duolingo Design Guidelines](https://www.duolingo.com/design) | 👍 |  | 👍 |  |
 | [Estonia Country Design Guidelines](https://brand.estonia.ee) | 👍 | 👍 | 👍 |  |
+| [ExtReact](https://www.sencha.com/products/extreact/#app) | 👍 | 👍 | 👍 |  | Reviewed
 | [Firefox Photon Design System](http://design.firefox.com/photon) | 👍 | 👍 | 👍 |  |
 | [FutureLearn Pattern Library](https://www.futurelearn.com/pattern-library) | 👍 |  |  |  |
 | [GitHub Primer](http://primercss.io/) | 👍 |  |  |  |
@@ -58,10 +59,10 @@
 | [nib Health Funds](https://design.nib.com.au/) | 👍 |  |  |  |
 | [Nordnet](https://www.nordnet.se/brand/) | 👍 | 👍 |  | 👍 |
 | [Nutanix Prism](http://nutanix.design) | 👍 |  |  |  |
-| [Office UI Fabric](https://dev.office.com/fabric) | 👍 |  |  |  |
+| [Office UI Fabric](https://dev.office.com/fabric) | 👍 |  |  |  | Reject-MS UI
 | [Opattern](https://ux.opower.com/opattern) | 👍 | 👍 |  |  |
 | [Oracle Alta UI](http://www.oracle.com/webfolder/ux/middleware/alta/index.html) | 👍 |  |  |  |
-| [PatternFly Open Interface Project](https://www.patternfly.org/) | 👍 | 👍 |  |  |
+| [PatternFly Open Interface Project](https://www.patternfly.org/) | 👍 | 👍 |  |  | Reviewed
 | [Pivotal](http://styleguide.pivotal.io/) | 👍 |  |  |  |
 | [Pluralsight Design System](http://design-system.pluralsight.com/) | 👍 |  |  | 👍 |
 | [Predix Design System](https://www.predix-ui.com/) | 👍 |  |👍 |  |
@@ -71,7 +72,7 @@
 | [Salesforce Lightning Design System](https://www.lightningdesignsystem.com) | 👍 | 👍 | 👍 |  |
 | [SAP Fiori](https://experience.sap.com/fiori-design/) | 👍 |  |  |  |
 | [SEEK Style Guide](https://seek-oss.github.io/seek-style-guide/) | 👍 |  |  |  |
-| [Shopify Polaris](https://polaris.shopify.com) | 👍 | 👍 | 👍 |  |
+| [Shopify Polaris](https://polaris.shopify.com) | 👍 | 👍 | 👍 |  | Rejected-ECom
 | [Stack Exchange: Stacks UI](http://stackexchange.github.io/stacks-ui/) | 👍 |  |  |  |
 | [Sky Toolkit](https://www.sky.com/toolkit) | 👍 |  |  |  |
 | [The University of Melbourne Design System](https://web.unimelb.edu.au/) | 👍 |  |  |  |
@@ -79,12 +80,12 @@
 | [Ubuntu Brand Guidelines](http://design.ubuntu.com/)| 👍 | 👍 |  |  |
 | [USPTO UI Design Library](http://uspto.github.io/designpatterns/index.html) | 👍 |  | 👍 |  |
 | [U.S. Web Design Standards](https://standards.usa.gov/) | 👍 | 👍 | 👍 |  |
-| [U.S. CMS.gov Design System](https://design.cms.gov/) | 👍 |  |  |  |
+| [U.S. CMS.gov Design System](https://design.cms.gov/) | 👍 |  |  |  | Reject-Toolimiting
 | [VMware {code}](https://code.vmware.com/) | 👍 |  |  |  |
 | [VMware Clarity Design System](https://vmware.github.io/clarity/) | 👍 | 👍 | 👍 |  |
 | [VMware UI Pattern Library](http://ui-patterns.vmware.com/) | 👍 |  | 👍 |  |
 | [WeWork Plasma](http://plasma.guide) | 👍 |  |  |  |
-| [Yelp Styleguide](http://yelp.com/styleguide) | 👍 | 👍 |  |  |
+| [Yelp Styleguide](http://yelp.com/styleguide) | 👍 | 👍 |  |  | Reject-Ecom
 
 
 ### Notes
