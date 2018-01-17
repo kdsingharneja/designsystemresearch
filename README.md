@@ -32,20 +32,20 @@
 | [Duolingo Design Guidelines](https://www.duolingo.com/design) | 👍 |  | 👍 |  | Reject-Only for Duo-lingo
 | [Estonia Country Design Guidelines](https://brand.estonia.ee) | 👍 | 👍 | 👍 |  | Reject-For Estononian Govt only
 | [ExtReact](https://www.sencha.com/products/extreact/#app) | 👍 | 👍 | 👍 |  | Reviewed
-| [Firefox Photon Design System](http://design.firefox.com/photon) | 👍 | 👍 | 👍 |  |
-| [FutureLearn Pattern Library](https://www.futurelearn.com/pattern-library) | 👍 |  |  |  |
-| [GitHub Primer](http://primercss.io/) | 👍 |  |  |  |
+| [Firefox Photon Design System](http://design.firefox.com/photon) | 👍 | 👍 | 👍 |  | Reject-Too limiting
+| [FutureLearn Pattern Library](https://www.futurelearn.com/pattern-library) | 👍 |  |  |  | Reject-Geared for MOOC website
+| [GitHub Primer](http://primercss.io/) | 👍 |  |  |  | Great but just a SCSS library
 | [Google Material Design](https://material.io/guidelines/#introduction-goals) | 👍 | 👍 |  |  | Reviwed with BluePrint
-| [GOV.UK Service Manual](https://www.gov.uk/service-manual) | 👍 |  |  |  |
-| [Help Scout](http://style.helpscout.com/) | 👍 | 👍 |  |  |
-| [Heroku Purple3](https://purple3.herokuapp.com/) | 👍 |  |  |  |
-| [Hewlett Packard grommet](https://grommet.github.io) | 👍 |  |  |  |
-| [IBM Carbon](http://carbondesignsystem.com/) | 👍 | 👍 | 👍 |  |
-| [IBM Design Language](https://www.ibm.com/design/language/) | 👍 | 👍 |  |  |
-| [IBM Northstar](https://www.ibm.com/standards/web/) | 👍 | 👍 |  |  |
-| [Intuit Harmony](http://harmony.intuit.com/) | 👍 | 👍 | 👍 |  |
-| [JetBrains Ring UI](http://www.jetbrains.org/ring-ui/index.html) | 👍 |  |  |  |
-| [Lexicon](https://lexicondesign.io/) | 👍 | 👍 |  |  |
+| [GOV.UK Service Manual](https://www.gov.uk/service-manual) | 👍 |  |  |  | Reject-Geared for Govt Wbsite
+| [Help Scout](http://style.helpscout.com/) | 👍 | 👍 |  |  | Reject-Only CSS Framework
+| [Heroku Purple3](https://purple3.herokuapp.com/) | 👍 |  |  |  | Reject-Only CSS Framework
+| [Hewlett Packard grommet](https://grommet.github.io) | 👍 |  |  |  | Reviewed
+| [IBM Carbon](http://carbondesignsystem.com/) | 👍 | 👍 | 👍 |  | Review
+| [IBM Design Language](https://www.ibm.com/design/language/) | 👍 | 👍 |  |  | Reject-Too limiting
+| [IBM Northstar](https://www.ibm.com/standards/web/) | 👍 | 👍 |  |  | Reject- IBM Specific
+| [Intuit Harmony](http://harmony.intuit.com/) | 👍 | 👍 | 👍 |  | Reject-Great but Intuit only
+| [JetBrains Ring UI](http://www.jetbrains.org/ring-ui/index.html) | 👍 |  |  |  | Review
+| [Lexicon](https://lexicondesign.io/) | 👍 | 👍 |  |  | Reject-For Liferay only
 | [Lonely Planet Rizzo](http://rizzo.lonelyplanet.com/) | 👍 |  |  |  |
 | [Louder Than Ten Manual](http://manual.louderthanten.com/) | 👍 | 👍 |  |  |
 | [Lost My Name Design System](http://design-system.lostmy.name/) | 👍 |  |  |  | Reject
