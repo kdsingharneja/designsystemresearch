@@ -35,7 +35,7 @@
 | [Firefox Photon Design System](http://design.firefox.com/photon) | 👍 | 👍 | 👍 |  |
 | [FutureLearn Pattern Library](https://www.futurelearn.com/pattern-library) | 👍 |  |  |  |
 | [GitHub Primer](http://primercss.io/) | 👍 |  |  |  |
-| [Google Material Design](https://material.io/guidelines/#introduction-goals) | 👍 | 👍 |  |  |
+| [Google Material Design](https://material.io/guidelines/#introduction-goals) | 👍 | 👍 |  |  | Reviwed with BluePrint
 | [GOV.UK Service Manual](https://www.gov.uk/service-manual) | 👍 |  |  |  |
 | [Help Scout](http://style.helpscout.com/) | 👍 | 👍 |  |  |
 | [Heroku Purple3](https://purple3.herokuapp.com/) | 👍 |  |  |  |
@@ -48,12 +48,12 @@
 | [Lexicon](https://lexicondesign.io/) | 👍 | 👍 |  |  |
 | [Lonely Planet Rizzo](http://rizzo.lonelyplanet.com/) | 👍 |  |  |  |
 | [Louder Than Ten Manual](http://manual.louderthanten.com/) | 👍 | 👍 |  |  |
-| [Lost My Name Design System](http://design-system.lostmy.name/) | 👍 |  |  |  |
+| [Lost My Name Design System](http://design-system.lostmy.name/) | 👍 |  |  |  | Reject
 | [Mailchimp Content Styleguide](http://styleguide.mailchimp.com/) |  | 👍 |  |  |
 | [Mailchimp Patterns](http://ux.mailchimp.com/patterns) | 👍 |  |  |  |
 | [Marvel Styleguide](https://marvelapp.com/styleguide) | 👍 |  |  |  |
 | [Mesosphere CNVS](http://mesosphere.github.io/cnvs/) | 👍 |  |  |  |
-| [Microsoft Fluent](http://fluent.microsoft.com/) | 👍 |  | 👍 |  |
+| [Microsoft Fluent](http://fluent.microsoft.com/) | 👍 |  | 👍 |  | Reject-For VR
 | [Mixpanel Product Styleguide](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new) | 👍 |  |  |  |
 | [NHS.UK Service Manual (Alpha)](http://www.nhs.uk/transformation/manual/) | 👍 | 👍 |  |  |
 | [nib Health Funds](https://design.nib.com.au/) | 👍 |  |  |  |
