@@ -46,45 +46,44 @@
 | [Intuit Harmony](http://harmony.intuit.com/) | 👍 | 👍 | 👍 |  | Reject-Great but Intuit only
 | [JetBrains Ring UI](http://www.jetbrains.org/ring-ui/index.html) | 👍 |  |  |  | Review
 | [Lexicon](https://lexicondesign.io/) | 👍 | 👍 |  |  | Reject-For Liferay only
-| [Lonely Planet Rizzo](http://rizzo.lonelyplanet.com/) | 👍 |  |  |  |
-| [Louder Than Ten Manual](http://manual.louderthanten.com/) | 👍 | 👍 |  |  |
-| [Lost My Name Design System](http://design-system.lostmy.name/) | 👍 |  |  |  | Reject
-| [Mailchimp Content Styleguide](http://styleguide.mailchimp.com/) |  | 👍 |  |  |
-| [Mailchimp Patterns](http://ux.mailchimp.com/patterns) | 👍 |  |  |  |
-| [Marvel Styleguide](https://marvelapp.com/styleguide) | 👍 |  |  |  |
-| [Mesosphere CNVS](http://mesosphere.github.io/cnvs/) | 👍 |  |  |  |
+| [Lonely Planet Rizzo](http://rizzo.lonelyplanet.com/) | 👍 |  |  |  | Reject-For LonelyPlanet
+| [Louder Than Ten Manual](http://manual.louderthanten.com/) | 👍 | 👍 |  |  | Reject-For Blog Site
+| [Lost My Name Design System](http://design-system.lostmy.name/) | 👍 |  |  |  | Reject-Fro Kids
+| [Mailchimp Content Styleguide](http://styleguide.mailchimp.com/) |  | 👍 |  |  | Reject -Good docs but just design guidelines
+| [Mailchimp Patterns](http://ux.mailchimp.com/patterns) | 👍 |  |  |  | Reject-Too limiting
+| [Marvel Styleguide](https://marvelapp.com/styleguide) | 👍 |  |  |  | Reject-Not for EApps
+| [Mesosphere CNVS](http://mesosphere.github.io/cnvs/) | 👍 |  |  |  | Reject-Too limiting
 | [Microsoft Fluent](http://fluent.microsoft.com/) | 👍 |  | 👍 |  | Reject-For VR
-| [Mixpanel Product Styleguide](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new) | 👍 |  |  |  |
-| [NHS.UK Service Manual (Alpha)](http://www.nhs.uk/transformation/manual/) | 👍 | 👍 |  |  |
-| [nib Health Funds](https://design.nib.com.au/) | 👍 |  |  |  |
-| [Nordnet](https://www.nordnet.se/brand/) | 👍 | 👍 |  | 👍 |
-| [Nutanix Prism](http://nutanix.design) | 👍 |  |  |  |
+| [Mixpanel Product Styleguide](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new) | 👍 |  |  |  | Reject-Too limiting
+| [NHS.UK Service Manual (Alpha)](http://www.nhs.uk/transformation/manual/) | 👍 | 👍 |  |  | Reject-Only guidelines
+| [nib Health Funds](https://design.nib.com.au/) | 👍 |  |  |  | Reject-Only the nib brand
+| [Nordnet](https://www.nordnet.se/brand/) | 👍 | 👍 |  | 👍 | Reject-only the nordnet brand
+| [Nutanix Prism](http://nutanix.design) | 👍 |  |  |  | Reject-only guidelines
 | [Office UI Fabric](https://dev.office.com/fabric) | 👍 |  |  |  | Reject-MS UI
-| [Opattern](https://ux.opower.com/opattern) | 👍 | 👍 |  |  |
-| [Oracle Alta UI](http://www.oracle.com/webfolder/ux/middleware/alta/index.html) | 👍 |  |  |  |
+| [Opattern](https://ux.opower.com/opattern) | 👍 | 👍 |  |  |Reject-for oPower products
+| [Oracle Alta UI](http://www.oracle.com/webfolder/ux/middleware/alta/index.html) | 👍 |  |  |  | Reject-Great inspiration but only for Oracle Cloud and Oracle Fusion Applications
 | [PatternFly Open Interface Project](https://www.patternfly.org/) | 👍 | 👍 |  |  | Reviewed
-| [Pivotal](http://styleguide.pivotal.io/) | 👍 |  |  |  |
-| [Pluralsight Design System](http://design-system.pluralsight.com/) | 👍 |  |  | 👍 |
-| [Predix Design System](https://www.predix-ui.com/) | 👍 |  |👍 |  |
-| [PrimeNG](https://www.primefaces.org/primeng/#/) | 👍 |  |👍 |  |
-| [Pusher Chameleon](http://pusher.github.io/chameleon/) | 👍 |  |  |  |
-| [Rambler](https://rambler-digital-solutions.github.io/rambler-ui/) | 👍 |  |  | 👍 |
+| [Pivotal](http://styleguide.pivotal.io/) | 👍 |  |  |  | Review
+| [Pluralsight Design System](http://design-system.pluralsight.com/) | 👍 |  |  | 👍 | Reject-Too limiting and for Pluralsight only
+| [Predix Design System](https://www.predix-ui.com/) | 👍 |  |👍 |  | Reject-Uses Polymer
+| [PrimeNG](https://www.primefaces.org/primeng/#/) | 👍 |  |👍 |  | Review
+| [Pusher Chameleon](http://pusher.github.io/chameleon/) | 👍 |  |  |  | Reject-Too limiting
+| [Rambler](https://rambler-digital-solutions.github.io/rambler-ui/) | 👍 |  |  | 👍 | Reject-Russian
 | [Salesforce Lightning Design System](https://www.lightningdesignsystem.com) | 👍 | 👍 | 👍 |  | Not sure if we can use.
-| [SAP Fiori](https://experience.sap.com/fiori-design/) | 👍 |  |  |  |
-| [SEEK Style Guide](https://seek-oss.github.io/seek-style-guide/) | 👍 |  |  |  |
+| [SAP Fiori](https://experience.sap.com/fiori-design/) | 👍 |  |  |  | Reject-For SAP software
+| [SEEK Style Guide](https://seek-oss.github.io/seek-style-guide/) | 👍 |  |  |  | Reject-For Aus job site.
 | [Shopify Polaris](https://polaris.shopify.com) | 👍 | 👍 | 👍 |  | Rejected-ECom
 | [Stack Exchange: Stacks UI](http://stackexchange.github.io/stacks-ui/) | 👍 |  |  |  |
-| [Sky Toolkit](https://www.sky.com/toolkit) | 👍 |  |  |  |
-| [The University of Melbourne Design System](https://web.unimelb.edu.au/) | 👍 |  |  |  |
-| [Trello - Nachos](https://design.trello.com) | 👍 |  | 👍 |  |
-| [Ubuntu Brand Guidelines](http://design.ubuntu.com/)| 👍 | 👍 |  |  |
-| [USPTO UI Design Library](http://uspto.github.io/designpatterns/index.html) | 👍 |  | 👍 |  |
-| [U.S. Web Design Standards](https://standards.usa.gov/) | 👍 | 👍 | 👍 |  |
+| [Sky Toolkit](https://www.sky.com/toolkit) | 👍 |  |  |  | Reject-For Sky.com news
+| [The University of Melbourne Design System](https://web.unimelb.edu.au/) | 👍 |  |  |  | Reject-For University website
+| [Trello - Nachos](https://design.trello.com) | 👍 |  | 👍 |  | Reject-Very specific to Trello
+| [Ubuntu Brand Guidelines](http://design.ubuntu.com/)| 👍 | 👍 |  |  | Reject-only CSS
+| [USPTO UI Design Library](http://uspto.github.io/designpatterns/index.html) | 👍 |  | 👍 |  | Reject-only component design
+| [U.S. Web Design Standards](https://standards.usa.gov/) | 👍 | 👍 | 👍 |  | Reject-only component design
 | [U.S. CMS.gov Design System](https://design.cms.gov/) | 👍 |  |  |  | Reject-Toolimiting
-| [VMware {code}](https://code.vmware.com/) | 👍 |  |  |  |
-| [VMware Clarity Design System](https://vmware.github.io/clarity/) | 👍 | 👍 | 👍 |  |
-| [VMware UI Pattern Library](http://ui-patterns.vmware.com/) | 👍 |  | 👍 |  |
-| [WeWork Plasma](http://plasma.guide) | 👍 |  |  |  |
+| [VMware Clarity Design System](https://vmware.github.io/clarity/) | 👍 | 👍 | 👍 |  | Review
+| [VMware UI Pattern Library](http://ui-patterns.vmware.com/) | 👍 |  | 👍 |  | Reject-Only patterns
+| [WeWork Plasma](http://plasma.guide) | 👍 |  |  |  | Reject-Too limiting and only for WeWork
 | [Yelp Styleguide](http://yelp.com/styleguide) | 👍 | 👍 |  |  | Reject-Ecom
 
 
