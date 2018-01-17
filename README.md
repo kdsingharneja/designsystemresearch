@@ -23,14 +23,14 @@
 | [Blueprint](http://blueprintjs.com/) | 👍 |  | 👍 |  | Reviewed
 | [Enigma Boundless](https://boundless.js.org/) | 👍 |  |  |  | Review
 | [BuzzFeed Solid](http://solid.buzzfeed.com/) | 👍 |  | 👍 |  | BuzzFeed's CSS style guide
-| [CA Technologies Mineral UI](http://mineral-ui.com/) | 👍 |  |  |  |
-| [Cards Binary Design](https://github.com/opensource-cards/binary-ui) | 👍 | 👍 | 👍 | 👍 |
-| [Cloudflare](https://cloudflare.github.io/cf-ui/) | 👍 |  |  |  |
-| [City of Boston Fleet](https://cob-patterns-staging.herokuapp.com) | 👍 |  |  |  |
-| [Co-op Design Manual](https://coop-design-manual.herokuapp.com/) | 👍 | 👍 | 👍 |  |
-| [Dropbox Scooter](http://dropbox.github.io/scooter/) | 👍 |  |  |  | 
-| [Duolingo Design Guidelines](https://www.duolingo.com/design) | 👍 |  | 👍 |  |
-| [Estonia Country Design Guidelines](https://brand.estonia.ee) | 👍 | 👍 | 👍 |  |
+| [CA Technologies Mineral UI](http://mineral-ui.com/) | 👍 |  |  |  | Review
+| [Cards Binary Design](https://github.com/opensource-cards/binary-ui) | 👍 | 👍 | 👍 | 👍 | Reject-Only mobile
+| [Cloudflare](https://cloudflare.github.io/cf-ui/) | 👍 |  |  |  | Reject-For Cloudflare only and BSD
+| [City of Boston Fleet](https://cob-patterns-staging.herokuapp.com) | 👍 |  |  |  | Reject-Too limiting
+| [Co-op Design Manual](https://coop-design-manual.herokuapp.com/) | 👍 | 👍 | 👍 |  | Reject-For co-op website
+| [Dropbox Scooter](http://dropbox.github.io/scooter/) | 👍 |  |  |  | Reject-only a SCSS library
+| [Duolingo Design Guidelines](https://www.duolingo.com/design) | 👍 |  | 👍 |  | Reject-Only for Duo-lingo
+| [Estonia Country Design Guidelines](https://brand.estonia.ee) | 👍 | 👍 | 👍 |  | Reject-For Estononian Govt only
 | [ExtReact](https://www.sencha.com/products/extreact/#app) | 👍 | 👍 | 👍 |  | Reviewed
 | [Firefox Photon Design System](http://design.firefox.com/photon) | 👍 | 👍 | 👍 |  |
 | [FutureLearn Pattern Library](https://www.futurelearn.com/pattern-library) | 👍 |  |  |  |
