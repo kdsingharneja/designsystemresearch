@@ -30,6 +30,7 @@
 | [Co-op Design Manual](https://coop-design-manual.herokuapp.com/) | 👍 | 👍 | 👍 |  | Reject-For co-op website
 | [Dropbox Scooter](http://dropbox.github.io/scooter/) | 👍 |  |  |  | Reject-only a SCSS library
 | [Duolingo Design Guidelines](https://www.duolingo.com/design) | 👍 |  | 👍 |  | Reject-Only for Duo-lingo
+| [Elemental UI](http://elemental-ui.com/modal) | 👍 | 👍 |  |  | Reject-Only CSS and too limiting
 | [Estonia Country Design Guidelines](https://brand.estonia.ee) | 👍 | 👍 | 👍 |  | Reject-For Estononian Govt only
 | [ExtReact](https://www.sencha.com/products/extreact/#app) | 👍 | 👍 | 👍 |  | **Reviewed**
 | [Firefox Photon Design System](http://design.firefox.com/photon) | 👍 | 👍 | 👍 |  | Reject-Too limiting
