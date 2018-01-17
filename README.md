@@ -14,11 +14,11 @@
 
 |    | Components | Voice & Tone | Designers Kit | Storybook | Notes
 | ----- | ---------- | ------------ | ------ | --------- | ---------
-| [Alibaba Ant Design](https://ant.design) | 👍 | 👍 | 👍 | 👍 |
+| [Alibaba Ant Design](https://ant.design) | 👍 | 👍 | 👍 | 👍 | Reviewed
 | [Appear Here Styleguide](http://bloom.appearhere.co.uk/) | 👍 |  |  | 👍 | Rejected-For ECom Sites
-| [Apple Developer Design Guidelines](https://developer.apple.com/design/) |  |  | 👍 |  |
-| [Atlassian Design Language](https://atlassian.design) | 👍 | 👍 | 👍 | 👍 |
-| [Audi UI Kit](http://www.audi.com/ci/en/guides/user-interface/introduction.html) | 👍 |  | 👍 |  |
+| [Apple Developer Design Guidelines](https://developer.apple.com/design/) |  |  | 👍 |  | Only for mobile or Mac apps
+| [Atlassian Design Language](https://atlassian.design) | 👍 | 👍 | 👍 | 👍 | Per license should only be used for creating Atlassian Add-Ons
+| [Audi UI Kit](http://www.audi.com/ci/en/guides/user-interface/introduction.html) | 👍 |  | 👍 |  | For Audi Website
 | [BBC GEL (Global Experience Language)](http://www.bbc.co.uk/gel) | 👍 | 👍 | 👍 |  |
 | [Blueprint](http://blueprintjs.com/) | 👍 |  | 👍 |  |
 | [Enigma Boundless](https://boundless.js.org/) | 👍 |  |  |  |
