@@ -14,7 +14,7 @@
 
 |    | Components | Voice & Tone | Designers Kit | Storybook | Notes
 | ----- | ---------- | ------------ | ------ | --------- | ---------
-| [Alibaba Ant Design](https://ant.design) | 👍 | 👍 | 👍 | 👍 | Reviewed
+| **[Alibaba Ant Design](https://ant.design) | 👍 | 👍 | 👍 | 👍 | Reviewed**
 | [Appear Here Styleguide](http://bloom.appearhere.co.uk/) | 👍 |  |  | 👍 | Rejected-For ECom Sites
 | [Apple Developer Design Guidelines](https://developer.apple.com/design/) |  |  | 👍 |  | Only for mobile or Mac apps
 | [Atlassian Design Language](https://atlassian.design) | 👍 | 👍 | 👍 | 👍 | Per license should only be used for creating Atlassian Add-Ons
