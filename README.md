@@ -69,7 +69,7 @@
 | [PrimeNG](https://www.primefaces.org/primeng/#/) | 👍 |  |👍 |  |
 | [Pusher Chameleon](http://pusher.github.io/chameleon/) | 👍 |  |  |  |
 | [Rambler](https://rambler-digital-solutions.github.io/rambler-ui/) | 👍 |  |  | 👍 |
-| [Salesforce Lightning Design System](https://www.lightningdesignsystem.com) | 👍 | 👍 | 👍 |  |
+| [Salesforce Lightning Design System](https://www.lightningdesignsystem.com) | 👍 | 👍 | 👍 |  | Not sure if we can use.
 | [SAP Fiori](https://experience.sap.com/fiori-design/) | 👍 |  |  |  |
 | [SEEK Style Guide](https://seek-oss.github.io/seek-style-guide/) | 👍 |  |  |  |
 | [Shopify Polaris](https://polaris.shopify.com) | 👍 | 👍 | 👍 |  | Rejected-ECom
