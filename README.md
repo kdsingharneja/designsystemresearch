@@ -55,7 +55,7 @@
 | [Mailchimp Patterns](http://ux.mailchimp.com/patterns) | 👍 |  |  |  | Reject-Too limiting
 | [Marvel Styleguide](https://marvelapp.com/styleguide) | 👍 |  |  |  | Reject-Not for EApps
 | [Mesosphere CNVS](http://mesosphere.github.io/cnvs/) | 👍 |  |  |  | Reject-Too limiting
-| [Microsoft Fabric](https://developer.microsoft.com/en-us/fabric) | 👍 | 👍 | 👍 |  | **Review**
+| [Microsoft Fabric](https://developer.microsoft.com/en-us/fabric) | 👍 | 👍 | 👍 |  | **Reviewed**
 | [Microsoft Fluent](http://fluent.microsoft.com/) | 👍 |  | 👍 |  | Reject-For VR
 | [Mixpanel Product Styleguide](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new) | 👍 |  |  |  | Reject-Too limiting
 | [NHS.UK Service Manual (Alpha)](http://www.nhs.uk/transformation/manual/) | 👍 | 👍 |  |  | Reject-Only guidelines
