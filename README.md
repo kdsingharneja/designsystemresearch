@@ -23,7 +23,7 @@
 | [Blueprint](http://blueprintjs.com/) | 👍 |  | 👍 |  | **Reviewed**
 | [Enigma Boundless](https://boundless.js.org/) | 👍 |  |  |  | Rejected-Too limiting
 | [BuzzFeed Solid](http://solid.buzzfeed.com/) | 👍 |  | 👍 |  | BuzzFeed's CSS style guide
-| [CA Technologies Mineral UI](http://mineral-ui.com/) | 👍 |  |  |  | **Review**
+| [CA Technologies Mineral UI](http://mineral-ui.com/) | 👍 |  |  |  | Rejected-Too limited and pertains to CA website.
 | [Cards Binary Design](https://github.com/opensource-cards/binary-ui) | 👍 | 👍 | 👍 | 👍 | Reject-Only mobile
 | [Cloudflare](https://cloudflare.github.io/cf-ui/) | 👍 |  |  |  | Reject-For Cloudflare only and BSD
 | [City of Boston Fleet](https://cob-patterns-staging.herokuapp.com) | 👍 |  |  |  | Reject-Too limiting
