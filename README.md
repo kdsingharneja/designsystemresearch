@@ -72,6 +72,7 @@
 | [Rambler](https://rambler-digital-solutions.github.io/rambler-ui/) | 👍 |  |  | 👍 | Reject-Russian
 | [Salesforce Lightning Design System](https://www.lightningdesignsystem.com) | 👍 | 👍 | 👍 |  | Not sure if we can use.
 | [SAP Fiori](https://experience.sap.com/fiori-design/) | 👍 |  |  |  | Reject-For SAP software
+| [Semantic UI](https://react.semantic-ui.com/elements/segment) | 👍 | 👍 |  |  | **Review**
 | [SEEK Style Guide](https://seek-oss.github.io/seek-style-guide/) | 👍 |  |  |  | Reject-For Aus job site.
 | [Shopify Polaris](https://polaris.shopify.com) | 👍 | 👍 | 👍 |  | Rejected-ECom
 | [Stack Exchange: Stacks UI](http://stackexchange.github.io/stacks-ui/) | 👍 |  |  |  |
