@@ -66,7 +66,7 @@
 | [Opattern](https://ux.opower.com/opattern) | 👍 | 👍 |  |  |Reject-for oPower products
 | [Oracle Alta UI](http://www.oracle.com/webfolder/ux/middleware/alta/index.html) | 👍 |  |  |  | Reject-Great inspiration but only for Oracle Cloud and Oracle Fusion Applications
 | [PatternFly Open Interface Project](https://www.patternfly.org/) | 👍 | 👍 |  |  | **Reviewed**
-| [Pivotal](http://styleguide.pivotal.io/) | 👍 |  |  |  | **Review**
+| [Pivotal](http://styleguide.pivotal.io/) | 👍 |  |  |  | Reject-Too limiting
 | [Pluralsight Design System](http://design-system.pluralsight.com/) | 👍 |  |  | 👍 | Reject-Too limiting and for Pluralsight only
 | [Predix Design System](https://www.predix-ui.com/) | 👍 |  |👍 |  | Reject-Uses Polymer
 | [PrimeNG](https://www.primefaces.org/primeng/#/) | 👍 |  |👍 |  | **Review**
