@@ -21,7 +21,7 @@
 | [Audi UI Kit](http://www.audi.com/ci/en/guides/user-interface/introduction.html) | 👍 |  | 👍 |  | For Audi Website
 | [BBC GEL (Global Experience Language)](http://www.bbc.co.uk/gel) | 👍 | 👍 | 👍 |  | For BBC's Sites
 | [Blueprint](http://blueprintjs.com/) | 👍 |  | 👍 |  | **Reviewed**
-| [Enigma Boundless](https://boundless.js.org/) | 👍 |  |  |  | **Review**
+| [Enigma Boundless](https://boundless.js.org/) | 👍 |  |  |  | Rejected-Too limiting
 | [BuzzFeed Solid](http://solid.buzzfeed.com/) | 👍 |  | 👍 |  | BuzzFeed's CSS style guide
 | [CA Technologies Mineral UI](http://mineral-ui.com/) | 👍 |  |  |  | **Review**
 | [Cards Binary Design](https://github.com/opensource-cards/binary-ui) | 👍 | 👍 | 👍 | 👍 | Reject-Only mobile
