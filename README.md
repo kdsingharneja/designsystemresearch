@@ -1,4 +1,4 @@
-## Design System Research
+## Design System and UI Library Research
 
 
 
@@ -46,6 +46,7 @@
 | [IBM Northstar](https://www.ibm.com/standards/web/) | 👍 | 👍 |  |  | Reject- IBM Specific
 | [Intuit Harmony](http://harmony.intuit.com/) | 👍 | 👍 | 👍 |  | Reject-Great but Intuit only
 | [JetBrains Ring UI](http://www.jetbrains.org/ring-ui/index.html) | 👍 |  |  |  | **Review**
+| [jqxReact](https://www.jqwidgets.com/react/) | 👍 | 👍 |  |  | **Review**
 | [Lexicon](https://lexicondesign.io/) | 👍 | 👍 |  |  | Reject-For Liferay only
 | [Lonely Planet Rizzo](http://rizzo.lonelyplanet.com/) | 👍 |  |  |  | Reject-For LonelyPlanet
 | [Louder Than Ten Manual](http://manual.louderthanten.com/) | 👍 | 👍 |  |  | Reject-For Blog Site
