@@ -85,7 +85,7 @@
 | [USPTO UI Design Library](http://uspto.github.io/designpatterns/index.html) | 👍 |  | 👍 |  | Reject-only component design
 | [U.S. Web Design Standards](https://standards.usa.gov/) | 👍 | 👍 | 👍 |  | Reject-only component design
 | [U.S. CMS.gov Design System](https://design.cms.gov/) | 👍 |  |  |  | Reject-Too limiting
-| [VMware Clarity Design System](https://vmware.github.io/clarity/) | 👍 | 👍 | 👍 |  | **Review**
+| [VMware Clarity Design System](https://vmware.github.io/clarity/) | 👍 | 👍 | 👍 |  | Reject-Old angular version
 | [VMware UI Pattern Library](http://ui-patterns.vmware.com/) | 👍 |  | 👍 |  | Reject-Only patterns
 | [WeWork Plasma](http://plasma.guide) | 👍 |  |  |  | Reject-Too limiting and only for WeWork
 | [Yelp Styleguide](http://yelp.com/styleguide) | 👍 | 👍 |  |  | Reject-Ecom
