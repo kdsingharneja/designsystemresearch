@@ -41,7 +41,7 @@
 | [Help Scout](http://style.helpscout.com/) | 👍 | 👍 |  |  | Reject-Only CSS Framework
 | [Heroku Purple3](https://purple3.herokuapp.com/) | 👍 |  |  |  | Reject-Only CSS Framework
 | [Hewlett Packard grommet](https://grommet.github.io) | 👍 |  |  |  | **Reviewed**
-| [IBM Carbon](http://carbondesignsystem.com/) | 👍 | 👍 | 👍 |  | **Review**
+| [IBM Carbon](http://carbondesignsystem.com/) | 👍 | 👍 | 👍 |  | Reviewed
 | [IBM Design Language](https://www.ibm.com/design/language/) | 👍 | 👍 |  |  | Reject-Too limiting
 | [IBM Northstar](https://www.ibm.com/standards/web/) | 👍 | 👍 |  |  | Reject- IBM Specific
 | [Intuit Harmony](http://harmony.intuit.com/) | 👍 | 👍 | 👍 |  | Reject-Great but Intuit only
