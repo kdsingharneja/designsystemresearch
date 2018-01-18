@@ -45,8 +45,8 @@
 | [IBM Design Language](https://www.ibm.com/design/language/) | 👍 | 👍 |  |  | Reject-Too limiting
 | [IBM Northstar](https://www.ibm.com/standards/web/) | 👍 | 👍 |  |  | Reject- IBM Specific
 | [Intuit Harmony](http://harmony.intuit.com/) | 👍 | 👍 | 👍 |  | Reject-Great but Intuit only
-| [JetBrains Ring UI](http://www.jetbrains.org/ring-ui/index.html) | 👍 |  |  |  | **Review**
-| [jqxReact](https://www.jqwidgets.com/react/) | 👍 | 👍 |  |  | **Review**
+| [JetBrains Ring UI](http://www.jetbrains.org/ring-ui/index.html) | 👍 |  |  |  | Reject-Only for JetBrains
+| [jqxReact](https://www.jqwidgets.com/react/) | 👍 | 👍 |  |  | **Reviewed**
 | [Lexicon](https://lexicondesign.io/) | 👍 | 👍 |  |  | Reject-For Liferay only
 | [Lonely Planet Rizzo](http://rizzo.lonelyplanet.com/) | 👍 |  |  |  | Reject-For LonelyPlanet
 | [Louder Than Ten Manual](http://manual.louderthanten.com/) | 👍 | 👍 |  |  | Reject-For Blog Site
@@ -69,7 +69,7 @@
 | [Pivotal](http://styleguide.pivotal.io/) | 👍 |  |  |  | Reject-Too limiting
 | [Pluralsight Design System](http://design-system.pluralsight.com/) | 👍 |  |  | 👍 | Reject-Too limiting and for Pluralsight only
 | [Predix Design System](https://www.predix-ui.com/) | 👍 |  |👍 |  | Reject-Uses Polymer
-| [PrimeNG](https://www.primefaces.org/primeng/#/) | 👍 |  |👍 |  | **Review**
+| [PrimeNG](https://www.primefaces.org/primeng/#/) | 👍 |  |👍 |  | **Reviewed**
 | [Pusher Chameleon](http://pusher.github.io/chameleon/) | 👍 |  |  |  | Reject-Too limiting
 | [Rambler](https://rambler-digital-solutions.github.io/rambler-ui/) | 👍 |  |  | 👍 | Reject-Russian
 | [Salesforce Lightning Design System](https://www.lightningdesignsystem.com) | 👍 | 👍 | 👍 |  | Not sure if we can use.
