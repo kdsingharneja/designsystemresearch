@@ -77,14 +77,14 @@
 | [Semantic UI](https://react.semantic-ui.com/elements/segment) | 👍 | 👍 |  |  | **Review**
 | [SEEK Style Guide](https://seek-oss.github.io/seek-style-guide/) | 👍 |  |  |  | Reject-For Aus job site.
 | [Shopify Polaris](https://polaris.shopify.com) | 👍 | 👍 | 👍 |  | Rejected-ECom
-| [Stack Exchange: Stacks UI](http://stackexchange.github.io/stacks-ui/) | 👍 |  |  |  |
+| [Stack Exchange: Stacks UI](http://stackexchange.github.io/stacks-ui/) | 👍 |  |  |  | Reject-Too limiting
 | [Sky Toolkit](https://www.sky.com/toolkit) | 👍 |  |  |  | Reject-For Sky.com news
 | [The University of Melbourne Design System](https://web.unimelb.edu.au/) | 👍 |  |  |  | Reject-For University website
 | [Trello - Nachos](https://design.trello.com) | 👍 |  | 👍 |  | Reject-Very specific to Trello
 | [Ubuntu Brand Guidelines](http://design.ubuntu.com/)| 👍 | 👍 |  |  | Reject-only CSS
 | [USPTO UI Design Library](http://uspto.github.io/designpatterns/index.html) | 👍 |  | 👍 |  | Reject-only component design
 | [U.S. Web Design Standards](https://standards.usa.gov/) | 👍 | 👍 | 👍 |  | Reject-only component design
-| [U.S. CMS.gov Design System](https://design.cms.gov/) | 👍 |  |  |  | Reject-Toolimiting
+| [U.S. CMS.gov Design System](https://design.cms.gov/) | 👍 |  |  |  | Reject-Too limiting
 | [VMware Clarity Design System](https://vmware.github.io/clarity/) | 👍 | 👍 | 👍 |  | **Review**
 | [VMware UI Pattern Library](http://ui-patterns.vmware.com/) | 👍 |  | 👍 |  | Reject-Only patterns
 | [WeWork Plasma](http://plasma.guide) | 👍 |  |  |  | Reject-Too limiting and only for WeWork
