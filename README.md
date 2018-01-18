@@ -47,6 +47,7 @@
 | [Intuit Harmony](http://harmony.intuit.com/) | 👍 | 👍 | 👍 |  | Reject-Great but Intuit only
 | [JetBrains Ring UI](http://www.jetbrains.org/ring-ui/index.html) | 👍 |  |  |  | Reject-Only for JetBrains
 | [jqxReact](https://www.jqwidgets.com/react/) | 👍 | 👍 |  |  | **Reviewed**
+| [Kendo UI](https://www.telerik.com/kendo-react-ui) | 👍 | 👍 |  |  | **Reviewed**
 | [Lexicon](https://lexicondesign.io/) | 👍 | 👍 |  |  | Reject-For Liferay only
 | [Lonely Planet Rizzo](http://rizzo.lonelyplanet.com/) | 👍 |  |  |  | Reject-For LonelyPlanet
 | [Louder Than Ten Manual](http://manual.louderthanten.com/) | 👍 | 👍 |  |  | Reject-For Blog Site
